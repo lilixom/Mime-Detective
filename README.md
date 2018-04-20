@@ -1,10 +1,8 @@
 Mime-Detective
 ==============
-
-Mime type for files.
-
-Based on https://filetypedetective.codeplex.com/
-
+Mime type for files
+fixed TXT FILE bug
+support TIFF type
 
 Usage 
 
